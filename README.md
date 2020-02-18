@@ -42,6 +42,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
 | GreyNoise | GreyNoise is a system that collects and analyzes data on Internet-wide scanners. | `apiKey` | Yes | [Link!](https://github.com/GreyNoise-Intelligence/api.greynoise.io) |Commercial|
+| Grayhat Warfare | Grayhat Warfare indexes files stored in publicly accessible Amazon S3 buckets. | `apikey` | Yes | [Link!](https://buckets.grayhatwarfare.com/apiDoc) | Free/Commercial |
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
